@@ -3,3 +3,5 @@ test.................
 B test
 A test l?i
 send B
+
+B test ghi de khong cho A ghi
