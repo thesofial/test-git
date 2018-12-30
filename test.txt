@@ -2,3 +2,4 @@
 test.................
 B test
 A test l?i
+send B
