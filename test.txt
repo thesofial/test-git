@@ -2,5 +2,4 @@
 test.................
 B test
 A test l?i
-
-test push
+send B
